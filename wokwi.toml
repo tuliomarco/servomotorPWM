@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+executable = 'build/servomotorPWM.uf2'
+elf = 'build/servomotorPWM.elf'
